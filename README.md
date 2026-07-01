@@ -2,7 +2,7 @@
 
 # Gabriel Santin
 
-Estudante de Sistemas de Informação (5º período) — IFPR
+Estudante de Sistemas de Informação (5º período) - IFPR
 
 Desenvolvimento fullstack com Java, PHP e React, aplicado em projetos acadêmicos com foco em back-end e integração com banco de dados.
 
